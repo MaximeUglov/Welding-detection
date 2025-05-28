@@ -25,7 +25,6 @@ __welding.ipynb__ - обучение модели.
 <div id="badges">
   <img src="https://img.shields.io/badge/ultralytics-black?style=for-the-badge&logo=ultralytics"/>
   <img src="https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/sklearn-black?style=for-the-badge&logo=scikit-learn"/>
-  <img src="https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=pytorch"/>
+  <img src="https://img.shields.io/badge/matplotlib-black?style=for-the-badge&logo=matplotlib"/>
+  <img src="https://img.shields.io/badge/seaborn-black?style=for-the-badge&logo=seaborn"/>
 </div>
